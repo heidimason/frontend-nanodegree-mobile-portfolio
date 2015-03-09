@@ -1,0 +1,1 @@
+http://jsperf.com/variable-outside-faster
