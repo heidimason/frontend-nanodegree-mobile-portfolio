@@ -1,1 +1,4 @@
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization#lossless-vs-lossy-image-compression
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery#example
+http://gtmetrix.com/leverage-browser-caching.html
 http://jsperf.com/variable-outside-faster
