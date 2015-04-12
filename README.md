@@ -13,7 +13,7 @@ To increase the score to at least 90, I made the following changes:
 ####Part 2: Optimize Frames per Second in pizza.html
 
 To reach a frame rate of 60 fps when scrolling, I made the following changes:
-* Created "scroll" variable (var scroll = (document.body.scrollTop / 1250))
+* Created "scroll" variable ( var scroll = (document.body.scrollTop / 1250) )
 * Decreased number of pizzas created on page from 200 to 30
 
 To make time to resize pizzas less than 5ms, I made the following changes:
